@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179138202877",
+    "project_id": "flutter-bloc-firebase-b097a",
+    "storage_bucket": "flutter-bloc-firebase-b097a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179138202877:android:ae4233b6f736bc00b1c294",
+        "android_client_info": {
+          "package_name": "com.sherazapp.flutter_auth_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbk0IxoW55piAIflulAxciU-ajMyhPasg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
